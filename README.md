@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sughandh Kumar Sharma! 👋
 
-<!--
-**sughandhsharma/sughandhsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 A Data Analyst with a Developer's Mindset
+I am a B.Sc. (Hons) Research student specializing in **Data Analysis** and **Backend Automation**. I don't just analyze data; I write the code to fetch, clean, and visualize it automatically.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: **End-to-End YouTube Data Analytics Pipeline**
+- 🎓 **Top Grades:** 'Outstanding' (O) in Backend Dev | 'A' in IT Skills & Data Analysis
+- ⚡ **Superpower:** I can automate Excel tasks using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+| Domain | Tools |
+| :--- | :--- |
+| **Analysis** | Python (Pandas, NumPy), SQL, Excel |
+| **Visualization** | Power BI, Matplotlib, Seaborn |
+| **Automation** | Selenium, BeautifulSoup, Airflow |
+| **Backend** | FastAPI, Flask, AWS S3 |
+
+### 📈 Top Projects
+**1. [Automated YouTube Data Pipeline](https://github.com/sughandhsharma/youtube-etl-pipeline)**
+* *What:* Fetches video stats via API, cleans data with Pandas, stores in AWS S3.
+* *Tech:* Python, AWS, SQL.
+
+
+
+[Connect on LinkedIn](LINK_TO_YOUR_LINKEDIN) 💼
