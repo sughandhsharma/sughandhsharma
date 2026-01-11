@@ -22,4 +22,4 @@ I am a B.Sc. (Hons) Research student specializing in **Data Analysis** and **Bac
 
 
 
-[Connect on LinkedIn](LINK_TO_YOUR_LINKEDIN) 💼
+[Connect on LinkedIn](https://www.linkedin.com/in/sughandhsharma/) 💼
